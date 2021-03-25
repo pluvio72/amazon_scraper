@@ -74,7 +74,7 @@ pyrsistent==0.14.11
 python-dateutil==2.8.0
 python-docx==0.8.10
 pytz==2019.1
-PyYAML==5.1
+PyYAML==5.4
 queuelib==1.5.0
 requests==2.21.0
 requests-toolbelt==0.8.0
