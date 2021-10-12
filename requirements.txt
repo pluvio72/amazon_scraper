@@ -50,7 +50,7 @@ moviepy==1.0.0
 msgpack==0.6.1
 neovim==0.3.1
 numpy==1.16.2
-opencv-python==4.0.0.21
+opencv-python==4.1.1.26
 parsel==1.5.1
 pastel==0.1.0
 pbr==5.1.3
