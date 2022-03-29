@@ -57,7 +57,7 @@ pbr==5.1.3
 Pillow==6.0.0
 pipreqs==0.4.9
 pkginfo==1.5.0.1
-poetry==0.12.11
+poetry==1.1.9
 proglog==0.1.9
 protobuf==3.7.1
 pyasn1==0.4.5
