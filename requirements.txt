@@ -59,7 +59,7 @@ pipreqs==0.4.9
 pkginfo==1.5.0.1
 poetry==0.12.11
 proglog==0.1.9
-protobuf==3.7.1
+protobuf==3.18.3
 pyasn1==0.4.5
 pyasn1-modules==0.2.5
 pycparser==2.19
